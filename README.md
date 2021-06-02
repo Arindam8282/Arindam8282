@@ -18,6 +18,8 @@ Android Studio,Kotlin including(XML)
 # Backend Developement
 Nodejs(Expressjs,Mongoose),REST API,MongoDB,PHP,MySQL,Python(Django)
 
+# Deployment 
+Heroku,Netlify,AWS(in progress)
 
 # IDE 
 Sublime Text,IntelliJ,Bracket,Pycharm but visual studio code is ❤❤❤
